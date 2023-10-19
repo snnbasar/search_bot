@@ -177,7 +177,7 @@ def main():
     global usebing
     usebing = args.usebing
 
-    query = input("Anahtar Kelime: ")
+    query = input("Keyword: ")
     global textToSearch
     textToSearch = query
 
